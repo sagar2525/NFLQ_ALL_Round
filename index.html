@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Quiz Rounds</title>
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<style>
+    :root {
+        --bg: linear-gradient(135deg,#f8fafc,#eef2ff 35%,#fde4ff 70%);
+        --panel: #ffffffd9;
+        --accent: #6366f1;
+        --accent-alt:#ec4899;
+        --accent-alt2:#f59e0b;
+        --correct: #16a34a;
+        --wrong: #dc2626;
+        --text: #1e293b;
+        --muted: #64748b;
+        --border: #e2e8f0;
+        --focus: #818cf8;
+        font-family: system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,sans-serif;
+    }
+    * { box-sizing: border-box; }
+    body { margin:0; background:var(--bg); color:var(--text); display:flex; min-height:100vh; align-items:center; justify-content:center; padding:1.5rem; }
+    .app { width: min(840px,100%); background:var(--panel); backdrop-filter: blur(10px); border:1px solid var(--border); border-radius:28px; padding:2.6rem 2.4rem 2.8rem; box-shadow:0 6px 30px -8px rgba(31,41,55,.25),0 2px 8px -4px rgba(31,41,55,.15); position:relative; overflow:hidden; }
+    .app:before { content:""; position:absolute; inset:0; background:radial-gradient(circle at 85% 15%,#fbcfe8,transparent 55%), radial-gradient(circle at 15% 85%,#bfdbfe,transparent 55%); opacity:.55; pointer-events:none; }
+    h1 { margin-top:0; font-size:1.9rem; letter-spacing:.5px; text-align:center; }
+    #score { position:absolute; top:14px; right:22px; font-size:.95rem; font-weight:600; color:var(--accent); background:#fff; padding:.35rem .75rem; border-radius:999px; box-shadow:0 2px 6px -2px rgba(0,0,0,.15); }
+    .round-badge { position:absolute; top:14px; left:22px; background:linear-gradient(90deg,var(--accent),var(--accent-alt)); color:#fff; font-weight:600; font-size:.8rem; letter-spacing:.5px; padding:.45rem .8rem .4rem; border-radius:999px; box-shadow:0 2px 6px -2px rgba(0,0,0,.25); display:none; }
+    .question { font-size:1.35rem; line-height:1.35; margin:0 0 1.25rem; font-weight:650; background:linear-gradient(90deg,var(--accent),var(--accent-alt)); -webkit-background-clip:text; background-clip:text; color:transparent; }
+    .clue { font-size:.95rem; color:var(--muted); margin:-.5rem 0 1.25rem; }
+    .options { display:grid; gap:.85rem; margin:0 0 1rem; }
+    button.option { appearance:none; border:2px solid var(--border); background:linear-gradient(135deg,#ffffff,#f1f5f9); padding:.95rem 1rem; font-size:1rem; text-align:left; border-radius:14px; cursor:pointer; transition:.15s background,.15s border,.15s transform, .2s box-shadow; font-weight:500; position:relative; overflow:hidden; }
+    button.option:before { content:""; position:absolute; inset:0; background:linear-gradient(90deg,var(--accent),var(--accent-alt)); opacity:0; transition:.3s opacity; }
+    button.option span { position:relative; z-index:1; }
+    button.option:hover { background:#f8fafc; box-shadow:0 3px 10px -4px rgba(0,0,0,.18); }
+    button.option:active { transform:scale(.97); }
+    button.option.correct { background: linear-gradient(135deg,#dcfce7,#bbf7d0); border-color: var(--correct); color:#065f46; }
+    button.option.wrong { background: linear-gradient(135deg,#fee2e2,#fecaca); border-color: var(--wrong); color:#7f1d1d; }
+    form.answer-form { display:flex; gap:.8rem; margin:0 0 1.2rem; }
+    form.answer-form input[type=text] { flex:1; padding:.95rem 1.05rem; font-size:1.05rem; border:2px solid var(--border); border-radius:14px; outline:none; transition:.15s border,.2s box-shadow; background:#fff; }
+    form.answer-form input[type=text]:focus { border-color:var(--focus); box-shadow:0 0 0 3px #818cf81f; }
+    form.answer-form input[type=text].correct { border-color: var(--correct); background:#f0fdf4; }
+    form.answer-form input[type=text].wrong { border-color: var(--wrong); background:#fef2f2; }
+    .btn { --btn-bg:var(--accent); --btn-bg-h: #4f46e5; }
+    .btn.alt { --btn-bg:var(--accent-alt); --btn-bg-h:#db2777; }
+    .btn.light { --btn-bg:#fff; --btn-bg-h:#fff; color:var(--accent); border:1px solid var(--border); }
+    form.answer-form button, .nav-btn, .round-btn, .btn { background:var(--btn-bg); color:#fff; border:none; padding:.9rem 1.25rem; font-size:1.02rem; font-weight:600; border-radius:14px; cursor:pointer; box-shadow:0 4px 14px -4px rgba(0,0,0,.25); transition:.18s background,.18s transform, .2s box-shadow; letter-spacing:.3px; }
+    form.answer-form button:hover, .nav-btn:hover, .round-btn:hover, .btn:hover { background:var(--btn-bg-h); box-shadow:0 6px 18px -6px rgba(0,0,0,.35); }
+    form.answer-form button:active, .nav-btn:active, .round-btn:active, .btn:active { transform:translateY(1px); }
+    form.answer-form button.light, .btn.light { color:var(--accent); }
+    #feedback { min-height:1.4rem; font-size:1rem; font-weight:600; }
+    #feedback.correct { color:var(--correct); }
+    #feedback.wrong { color:var(--wrong); }
+    .finish { text-align:center; padding:2rem 1rem; }
+    .finish h2 { font-size:2.4rem; margin:0 0 .75rem; }
+    .finish p { font-size:1.15rem; margin:.25rem 0 0; }
+    #loader { text-align:center; font-size:1.05rem; color:var(--muted); padding:1.5rem 0 .75rem; }
+    .progress-bar-wrap { height:10px; background:#e2e8f0; border-radius:6px; overflow:hidden; margin:0 0 1.6rem; position:relative; }
+    .progress-bar { height:100%; width:0%; background:linear-gradient(90deg,var(--accent),var(--accent-alt),var(--accent-alt2)); transition:width .45s ease; box-shadow:0 0 0 1px #ffffff40 inset; }
+    .nav { display:flex; justify-content:space-between; align-items:center; gap:.9rem; margin-top:1.2rem; }
+    .nav-btn[disabled]{ opacity:.45; cursor:not-allowed; box-shadow:none; }
+    .landing { display:grid; gap:1.4rem; }
+    .round-grid { display:grid; gap:1.1rem; grid-template-columns:repeat(auto-fit,minmax(160px,1fr)); }
+    .round-btn { background:linear-gradient(135deg,var(--accent),var(--accent-alt)); border:none; position:relative; overflow:hidden; }
+    .round-btn:before { content:""; position:absolute; inset:0; background:linear-gradient(135deg,var(--accent-alt),var(--accent-alt2)); opacity:0; transition:.4s opacity; }
+    .round-btn:hover:before { opacity:1; }
+    .round-btn span { position:relative; z-index:1; display:block; }
+    .landing h2 { text-align:center; font-size:2.1rem; margin:.2rem 0 0; background:linear-gradient(90deg,var(--accent-alt2),var(--accent-alt)); -webkit-background-clip:text; background-clip:text; color:transparent; }
+    .sub { text-align:center; color:var(--muted); margin:0 0 .2rem; }
+    .back-btn { position:absolute; top:14px; left:22px; background:#fff; border:1px solid var(--border); color:var(--accent); padding:.45rem .85rem; font-size:.8rem; font-weight:600; border-radius:10px; cursor:pointer; box-shadow:0 2px 4px -2px rgba(0,0,0,.2); }
+    .back-btn:hover { background:#f1f5f9; }
+    .hidden { display:none !important; }
+    @media (max-width:600px){
+        .app { padding:2rem 1.35rem 2.2rem; border-radius:24px; }
+        h1 { font-size:1.55rem; }
+        .question { font-size:1.15rem; }
+        .landing h2 { font-size:1.7rem; }
+    }
+</style>
+</head>
+<body>
+<div class="app" id="app">
+    <div class="round-badge" id="roundBadge"></div>
+    <div id="score" aria-live="polite">Score: 0 / 0</div>
+    <h1 id="mainTitle">Quiz Rounds</h1>
+    <div class="progress-bar-wrap" aria-hidden="true"><div class="progress-bar" id="progressBar"></div></div>
+    <div id="content"><div id="loader">Loading questions…</div></div>
+</div>
+<script>
+(function(){
+    const contentEl = document.getElementById('content');
+    const scoreEl = document.getElementById('score');
+    const progressBar = document.getElementById('progressBar');
+    const roundBadge = document.getElementById('roundBadge');
+    const mainTitle = document.getElementById('mainTitle');
+
+    let allQuestions = [];
+    let questions = [];
+    let index = 0; // current question index within selected round
+    let lock = false; // prevents double answers
+    // Auto-advance disabled per user request (was 1500ms)
+    let userStates = []; // {userAnswer, isCorrect, answered}
+    let currentRound = null; // number
+
+    function normalize(str){ return (str||'').toString().trim().replace(/\s+/g,' ').toLowerCase(); }
+
+    // Canonical form: strip common decorations while preserving core words & numbers.
+    function canonical(str){
+        if(!str) return '';
+        let s = String(str).trim();
+        s = s
+            .replace(/^\s*[•*\-]+\s*/, '')           // leading bullets symbols
+            .replace(/^[A-Ha-h]\s*[).:-]\s*/, '')      // leading letter choices A) A. A- etc
+            .replace(/^\([A-Ha-h]\)\s*/, '')          // (A) pattern
+            .replace(/^[Qq]\d+[:.)-]\s*/, '')          // Q1: Q2. etc
+            .replace(/^\d+[).:-]\s+/, '')              // enumerated numeric list 1) 2.
+            .replace(/[→>]+$/, '')                      // trailing arrows
+            .replace(/Answer not found\.?/i,'')
+            .trim();
+        return normalize(s.replace(/\s{2,}/g,' '));
+    }
+
+    // Even more relaxed signature: remove all non-alphanumerics for fallback comparison
+    function ultra(str){
+        return canonical(str).replace(/[^a-z0-9]+/g,'');
+    }
+
+    function isCorrectMatch(optionText, answerText){
+        if(!answerText) return false;
+        const normO = normalize(optionText);
+        const normA = normalize(answerText);
+        if(normO && normA && normO === normA) return true;
+        const cOpt = canonical(optionText);
+        const cAns = canonical(answerText);
+        if(cOpt && cAns && cOpt === cAns) return true;
+        const uO = ultra(optionText);
+        const uA = ultra(answerText);
+        if(uO && uA && uO === uA) return true;
+        // containment (when answer has choice prefix like 'D) 10x revenue')
+        if(cAns && cOpt && (cAns.includes(cOpt) || cOpt.includes(cAns))) return true;
+        return false;
+    }
+
+    function cleanAnswerDisplay(answerText){
+        if(!answerText) return 'Answer not found';
+        const raw = answerText;
+        let cleaned = raw.replace(/^[A-Ha-h]\s*[).:-]\s*/, '').replace(/^\([A-Ha-h]\)\s*/, '').trim();
+        cleaned = cleaned.replace(/[→>]+$/,'').trim();
+        return cleaned || raw;
+    }
+
+    function calcScore(){
+        return userStates.reduce((acc,s)=>acc + (s.isCorrect?1:0),0);
+    }
+
+    function updateScore(){
+        const score = calcScore();
+        scoreEl.textContent = `Score: ${score} / ${questions.length}`;
+        const pct = questions.length ? (index / questions.length)*100 : 0;
+        progressBar.style.width = pct + '%';
+    }
+
+    function renderLanding(){
+        currentRound = null;
+        roundBadge.style.display='none';
+        mainTitle.textContent = 'Quiz Rounds';
+        progressBar.style.width = '0%';
+        scoreEl.textContent = 'Score: 0 / 0';
+        const uniqueRounds = [...new Set(allQuestions.map(q=>q.round).filter(r=>r!=null))].sort((a,b)=>a-b);
+        const landing = document.createElement('div');
+        landing.className = 'landing';
+        const h2 = document.createElement('h2'); h2.textContent = 'Select a Round'; landing.appendChild(h2);
+        const sub = document.createElement('p'); sub.className='sub'; sub.textContent = 'Choose a round to begin. Your score will be tracked for that round only.'; landing.appendChild(sub);
+        const grid = document.createElement('div'); grid.className='round-grid';
+        uniqueRounds.forEach(r=>{
+            const count = allQuestions.filter(q=>q.round===r).length;
+            const btn = document.createElement('button'); btn.type='button'; btn.className='round-btn';
+            btn.innerHTML = `<span>Round ${r}<br><small style="font-weight:400;opacity:.85;">${count} question${count!==1?'s':''}</small></span>`;
+            btn.addEventListener('click',()=> startRound(r));
+            grid.appendChild(btn);
+        });
+        landing.appendChild(grid);
+        contentEl.innerHTML='';
+        contentEl.appendChild(landing);
+    }
+
+    function startRound(r){
+        currentRound = r;
+        questions = allQuestions.filter(q=>q.round===r);
+        index = 0; userStates = questions.map(()=>({userAnswer:null,isCorrect:false,answered:false}));
+        roundBadge.textContent = 'ROUND ' + r; roundBadge.style.display='inline-block';
+        mainTitle.textContent = 'Round ' + r;
+        showQuestion(); updateScore();
+    }
+
+    function showQuestion(){
+        lock = false;
+        if(index >= questions.length){
+            return showFinish();
+        }
+        updateScore();
+        const q = questions[index];
+        const wrapper = document.createElement('div');
+        wrapper.className = 'q-wrapper';
+
+        let qText = '';
+        if(q.type === 'jumble'){
+            qText = q.jumbled ? `Unscramble: <strong>${escapeHTML(q.jumbled)}</strong>` : (q.question || '');
+        } else {
+            qText = q.question || (q.clue ? q.clue : '');
+        }
+
+        const questionEl = document.createElement('div');
+        questionEl.className = 'question';
+        questionEl.innerHTML = escapeHTML(qText).replace(/&lt;strong&gt;(.*)&lt;\/strong&gt;/,'<strong>$1<\/strong>');
+        wrapper.appendChild(questionEl);
+
+        if(q.type === 'jumble' && q.clue){
+            const clue = document.createElement('div');
+            clue.className = 'clue';
+            clue.textContent = `Clue: ${q.clue}`;
+            wrapper.appendChild(clue);
+        } else if(q.type !== 'jumble' && q.clue){
+            const clue = document.createElement('div');
+            clue.className = 'clue';
+            clue.textContent = q.clue;
+            wrapper.appendChild(clue);
+        }
+
+        const feedback = document.createElement('div');
+        feedback.id = 'feedback';
+        feedback.setAttribute('aria-live','polite');
+
+        const state = userStates[index];
+
+        if(q.type === 'mcq'){
+            const optionsContainer = document.createElement('div');
+            optionsContainer.className = 'options';
+            const opts = Array.isArray(q.options) ? q.options.slice(0,4) : [];
+            // If fewer than 4, pad with blanks (optional)
+            while(opts.length < 4) opts.push('');
+            opts.forEach(opt => {
+                const btn = document.createElement('button');
+                btn.type = 'button';
+                btn.className = 'option';
+                const span = document.createElement('span'); span.textContent = opt; btn.appendChild(span);
+                btn.addEventListener('click', () => {
+                    if(lock) return; lock = true;
+                    const correctAnswer = q.answer || 'Answer not found';
+                    const isCorrect = isCorrectMatch(opt, q.answer);
+                    if(isCorrect){
+                        btn.classList.add('correct');
+                        feedback.textContent = 'Correct!';
+                        feedback.className = 'correct';
+                    } else {
+                        btn.classList.add('wrong');
+                        feedback.textContent = `Wrong! Correct answer: ${cleanAnswerDisplay(correctAnswer)}`;
+                        feedback.className = 'wrong';
+                        // highlight correct one if present
+                        [...optionsContainer.children].forEach(b=>{
+                            if(isCorrectMatch(b.textContent, q.answer)) b.classList.add('correct');
+                        });
+                    }
+                    // disable all
+                    [...optionsContainer.children].forEach(b=>b.disabled = true);
+                    state.userAnswer = opt; state.isCorrect = isCorrect; state.answered = true;
+                    updateScore();
+                    // Auto-advance disabled: user must press Next
+                });
+                optionsContainer.appendChild(btn);
+            });
+            wrapper.appendChild(optionsContainer);
+            wrapper.appendChild(feedback);
+
+            // restore state if already answered
+            if(state.answered){
+                [...optionsContainer.children].forEach(b=>{
+                    if(canonical(b.textContent) === canonical(state.userAnswer)){
+                        b.classList.add(state.isCorrect? 'correct':'wrong');
+                    }
+                    if(!state.isCorrect && isCorrectMatch(b.textContent, q.answer)){
+                        b.classList.add('correct');
+                    }
+                    b.disabled = true;
+                });
+                feedback.textContent = state.isCorrect ? 'Correct!' : `Wrong! Correct answer: ${cleanAnswerDisplay(q.answer)||'Answer not found'}`;
+                feedback.className = state.isCorrect? 'correct':'wrong';
+                lock = true;
+            }
+        } else {
+            const form = document.createElement('form');
+            form.className = 'answer-form';
+            form.autocomplete = 'off';
+            const input = document.createElement('input');
+            input.type = 'text';
+            input.name = 'answer';
+            input.placeholder = 'Type your answer';
+            input.required = true;
+            const submit = document.createElement('button');
+            submit.type = 'submit';
+            submit.textContent = 'Check';
+            form.appendChild(input);
+            form.appendChild(submit);
+            form.addEventListener('submit', e => {
+                e.preventDefault();
+                if(lock) return; lock = true;
+                const user = input.value;
+                const correctAnswer = q.answer || 'Answer not found';
+                const isCorrect = q.answer ? normalize(user) === normalize(q.answer) : false;
+                if(isCorrect){
+                    input.classList.add('correct');
+                    feedback.textContent = 'Correct!';
+                    feedback.className = 'correct';
+                } else {
+                    input.classList.add('wrong');
+                    feedback.textContent = `Wrong! Correct answer: ${cleanAnswerDisplay(correctAnswer)}`;
+                    feedback.className = 'wrong';
+                }
+                input.disabled = true; submit.disabled = true;
+                state.userAnswer = user; state.isCorrect = isCorrect; state.answered = true;
+                updateScore();
+                // Auto-advance disabled: user must press Next / Finish
+            });
+            wrapper.appendChild(form);
+            wrapper.appendChild(feedback);
+            if(state.answered){
+                input.value = state.userAnswer || '';
+                input.classList.add(state.isCorrect? 'correct': 'wrong');
+                input.disabled = true; submit.disabled = true;
+                feedback.textContent = state.isCorrect ? 'Correct!' : `Wrong! Correct answer: ${q.answer||'Answer not found'}`;
+                feedback.className = state.isCorrect? 'correct':'wrong';
+                lock = true;
+            } else {
+                setTimeout(()=>input.focus(), 60);
+            }
+        }
+
+        // navigation controls
+        const nav = document.createElement('div'); nav.className='nav';
+        const prevBtn = document.createElement('button'); prevBtn.type='button'; prevBtn.className='nav-btn btn light'; prevBtn.textContent='◀ Prev';
+        prevBtn.disabled = index === 0;
+        prevBtn.addEventListener('click',()=>{ if(index>0){ index--; showQuestion(); }});
+        const midInfo = document.createElement('div'); midInfo.style.flex='1'; midInfo.style.textAlign='center'; midInfo.style.fontSize='.9rem'; midInfo.style.color='var(--muted)';
+        midInfo.textContent = `Question ${index+1} of ${questions.length}`;
+        const nextBtn = document.createElement('button'); nextBtn.type='button'; nextBtn.className='nav-btn btn alt'; nextBtn.textContent = index === questions.length-1 ? 'Finish ▶' : 'Next ▶';
+        nextBtn.addEventListener('click',()=>{ goNext(); });
+        nav.appendChild(prevBtn); nav.appendChild(midInfo); nav.appendChild(nextBtn);
+
+        contentEl.innerHTML = '';
+        contentEl.appendChild(wrapper);
+        contentEl.appendChild(nav);
+        // back to landing button
+        if(!document.querySelector('.back-btn')){
+            const back = document.createElement('button'); back.className='back-btn'; back.textContent='Rounds';
+            back.addEventListener('click',()=>{ renderLanding(); });
+            document.getElementById('app').appendChild(back);
+        }
+    }
+
+    function goNext(){
+        if(index < questions.length - 1){
+            index++; showQuestion();
+        } else if(index === questions.length -1){
+            // if final answered OR allow finish even if not answered
+            if(userStates[index].answered){
+                index++; showFinish();
+            } else {
+                // auto-focus current if not answered
+                const inp = contentEl.querySelector('input[name=answer]'); if(inp) inp.focus();
+            }
+        }
+    }
+
+    function showFinish(){
+        updateScore();
+        const finish = document.createElement('div');
+        finish.className='finish';
+        const h2 = document.createElement('h2');
+        h2.textContent = `Round ${currentRound} Finished — You scored ${calcScore()} out of ${questions.length}`;
+        const p = document.createElement('p');
+        p.textContent = 'Select "Rounds" to try another round.';
+        const again = document.createElement('button'); again.className='btn alt'; again.textContent='Back to Rounds';
+        again.addEventListener('click',()=>{ renderLanding(); document.querySelector('.back-btn')?.remove(); });
+        finish.appendChild(h2); finish.appendChild(p); finish.appendChild(document.createElement('br')); finish.appendChild(again);
+        contentEl.innerHTML='';
+        contentEl.appendChild(finish);
+        progressBar.style.width = '100%';
+    }
+
+    function escapeHTML(str){
+        return (str||'').toString().replace(/[&<>"']/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]));
+    }
+
+    async function loadQuestions(){
+        try {
+            const res = await fetch('quiz_data.json?_=' + Date.now());
+            if(!res.ok) throw new Error('HTTP ' + res.status);
+            const data = await res.json();
+            if(!Array.isArray(data)) throw new Error('JSON root is not an array');
+            allQuestions = data.filter(q=>q && typeof q === 'object');
+            // Remove trailing arrows from options (user request)
+            allQuestions.forEach(q=>{
+                if(Array.isArray(q.options)){
+                    q.options = q.options.map((opt,i)=>{
+                        if(typeof opt !== 'string') return opt;
+                        // remove any trailing arrow symbols/spaces
+                        let cleaned = opt.replace(/[\s→>]+$/,'').trimEnd();
+                        return cleaned;
+                    });
+                }
+            });
+        } catch(err){
+            console.error(err);
+            contentEl.innerHTML = '<div style="color:var(--wrong);font-weight:600;">Failed to load quiz data.</div>';
+            return;
+        }
+        renderLanding();
+    }
+
+    loadQuestions();
+})();
+</script>
+</body>
+</html>

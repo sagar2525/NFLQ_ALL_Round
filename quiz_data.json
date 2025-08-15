@@ -1,0 +1,2963 @@
+[
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q1: Which of these provides support to startups by providing them with money with expertise with management knowledge so on and so forth these are your options?",
+    "options": [
+      "Y Combinator",
+      "500 startups",
+      "Mudra",
+      "Tech Stars"
+    ],
+    "answer": "Mudra"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q2: The 10X rule aims to teach people to target which of the following?",
+    "options": [
+      "10% growth",
+      "10x competitors",
+      "10x employment",
+      "10x revenue"
+    ],
+    "answer": "10x revenue"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q3: if you look at a mutual fund then there is a certain document a key document which discloses all the details about that fund It is like a bible where that fund is concerned?",
+    "options": [
+      "KYC",
+      "SID",
+      "P",
+      "DMAT"
+    ],
+    "answer": "SID"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Which of these is measured by the burn rate ?",
+    "options": [
+      "cash outflow",
+      "customer churn",
+      "team turnover",
+      "marketing spend"
+    ],
+    "answer": "cash outflow"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q5: in startup terms what do the letters I O T refer to?",
+    "options": [
+      "the internet of things",
+      "Indian overseas trade",
+      "internal operations team",
+      "an investment opportunity trust"
+    ],
+    "answer": "the internet of things"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q1: Under SEBI's framework for clearing corporation interoperability, specialized SEBI-registered entities who are entrusted with the safekeeping of securities maintaining records of ownership and so on and so forth are called what?",
+    "options": [
+      "Fund managers",
+      "Custodians",
+      "Underwriters",
+      "Brokers"
+    ],
+    "answer": "Custodians"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q2: Under SEBI's framework for clearing corporation interoperability which product category and I'll show you four options is currently excluded from this facility when it comes to Indian markets?",
+    "options": [
+      "interest rate derivatives",
+      "index futures",
+      "currency options",
+      "commodity derivatives"
+    ],
+    "answer": "commodity derivatives"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q3: For which specific purpose are Indian insurance companies permitted to take part in interest rate futures in the markets that operate around interest rate futures as per regulations of the Irdai?",
+    "options": [
+      "long hedge",
+      "short hedge",
+      "both long and short A and B",
+      "arbitrage opportunity scheme F"
+    ],
+    "answer": "long hedge"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Which of these legislations or laws or acts aims to dematerialize securities and streamline the process of ownership transfer in India ?",
+    "options": [
+      "the depositories act",
+      "the company's act",
+      "our gracious force the sebi act",
+      "something called the sc"
+    ],
+    "answer": "the depositories act"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q2: As per the income tax act if there is a short-term capital loss it can be set off against?",
+    "options": [
+      "short-term capital gains only",
+      "long-term capital gains only",
+      "a mixture of both You can either set it off long-term or short-term capital gains",
+      "any possible income"
+    ],
+    "answer": "Long-term or short-term capital gains"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q3: [Incomplete] the fact stands for volatility and index put together And a higher VIX suggests that there is fear or uncertainty because of the volatility in the markets?",
+    "options": [
+      "Answer not found",
+      "Answer not found",
+      "Answer not found",
+      "Answer not found"
+    ],
+    "answer": "Answer not found."
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q4: On this Bank of England note it's a 20 pound note You can see a 18th century philosopher who happens to be even today in the 21st century This person happens to be one of the most influential people when it comes to economies and markets and stuff like that?",
+    "options": [
+      "Answer not found",
+      "Answer not found",
+      "Answer not found",
+      "Answer not found"
+    ],
+    "answer": "Adam Smith"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Which of these legislations or laws or acts aims to dematerialize securities and streamline the process of ownership transfer in India ?",
+    "options": [
+      "the depositories act",
+      "the company's act",
+      "our gracious force the sebi act",
+      "something called the sc"
+    ],
+    "answer": "the depositories act"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q2: As per the income tax act if there is a short-term capital loss it can be set off against?",
+    "options": [
+      "short-term capital gains only",
+      "long-term capital gains only",
+      "a mixture of both You can either set it off long-term or short-term capital gains",
+      "any possible income"
+    ],
+    "answer": "Long-term or short-term capital gains"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q3: Which product category and I'll show you four options is currently excluded from this facility when it comes to Indian markets?",
+    "options": [
+      "interest rate derivatives",
+      "index futures",
+      "currency options",
+      "commodity derivatives"
+    ],
+    "answer": "commodity derivatives"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q4: For which specific purpose are Indian insurance companies permitted to take part in interest rate futures in the markets that operate around interest rate futures as per regulations of the Irdai?",
+    "options": [
+      "long hedge",
+      "short hedge",
+      "both long and short A and B",
+      "arbitrage opportunity scheme F"
+    ],
+    "answer": "long hedge"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q5: Skimming fraud a type of fraud usually occurs in?",
+    "options": [
+      "at bank counters where you are transacting with a teller",
+      "at ATMs or point of sale machines",
+      "at net banking portals",
+      "with credit bureaus like civil etc"
+    ],
+    "answer": "at ATMs or point of sale machines"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q6: Who issues the KIM the key information memorandum for m?",
+    "options": [
+      "Asset management companies",
+      "SEBI",
+      "RBI",
+      "Ministry of finance"
+    ],
+    "answer": "Asset management companies"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Which of the following is an attribute of something that is called a commodity derivative ?",
+    "options": [
+      "it helps companies in the agricultural sector hedge against price fluctuations",
+      "it enables investors to speculate on the future price of commodities without owning the underlying asset",
+      "it allows for physical delivery of the commodity at the maturity of the contract",
+      "all of the above"
+    ],
+    "answer": "all of the above"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q8: In India an asset management company AMC may not appoint a director who is a director of another AMC unless?",
+    "options": [
+      "they have approval from SEBI",
+      "they get consent from all shareholders",
+      "they disclose it in their offer document",
+      "they cross a certain threshold"
+    ],
+    "answer": "they have approval from SEBI"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q9: In?",
+    "options": [
+      "Belgium",
+      "Spain",
+      "Austria",
+      "Italy"
+    ],
+    "answer": "Austria"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Which of the following is not an objective of Seby's investor protection fund ?",
+    "options": [
+      "administering the fund through a registered trust",
+      "promoting investor education and awareness",
+      "compensating investors claims when an exchange member's assets are insufficient",
+      "providing working capital to investors in case of loss"
+    ],
+    "answer": "providing working capital to investors in case of loss"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "which of the following four is an attribute of a liquid fund ?",
+    "options": [
+      "a fund which invests only in overnight debt securities",
+      "a mutual fund investing in short-term debt of less than 91 days maturity",
+      "a debt fund with an average maturity of 30 days",
+      "a fund which invests a minimum 50% of its funds in liquid assets"
+    ],
+    "answer": "a mutual fund investing in short-term debt of less than 91 days maturity"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q3: which savings instrument offers tax benefits under section 80C?",
+    "options": [
+      "a recurring deposit",
+      "5-year fixed deposit or FD",
+      "PSU tax-free bonds",
+      "sovereign gold bonds"
+    ],
+    "answer": "5-year fixed deposit or FD"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q4: what does the face value of a stock indicate?",
+    "options": [
+      "the current market price",
+      "the issue price",
+      "the book value",
+      "the par value"
+    ],
+    "answer": "the par value"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q5: what is the camel's rating system used for?",
+    "options": [
+      "Stock valuation",
+      "insurance claims",
+      "health assessment of banks",
+      "ranking of mutual funds"
+    ],
+    "answer": "health assessment of banks"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "which of these is a retirement product that allows partial withdrawals ?",
+    "options": [
+      "PPF",
+      "the SCSS",
+      "annuity",
+      "the PM VVY"
+    ],
+    "answer": "PPF"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q7: what is the maximum deposit insurance cover that is done or given by DICGC you of course know what DICGC is that's a deposit insurance and credit guarantee corporation of India?",
+    "options": [
+      "1 lakh rupees",
+      "2 lakh rupees",
+      "5 lakh rupees",
+      "10 lakh rupees"
+    ],
+    "answer": "5 lakh rupees"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Is it only fire is it fire and allied perils is it fire and natural disasters or is it medical expenses due to burns ?",
+    "options": [
+      "only fire",
+      "fire and allied perils",
+      "fire and natural disasters",
+      "medical expenses due to burns"
+    ],
+    "answer": "fire and allied perils"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q2: What is the maximum deduction for education loan interest under section 80 and?",
+    "options": [
+      "1.5 lakh rupees",
+      "2 lakh rupees",
+      "5 lakh rupees",
+      "that there is no such limit"
+    ],
+    "answer": "no such limit"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q3: Global Britain is a term that refers to a strategy followed by the British government post?",
+    "options": [
+      "COVID recovery",
+      "Brexit",
+      "the 2008 financial crisis",
+      "Sir Star becoming prime minister"
+    ],
+    "answer": "Brexit"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q4: Which idea amongst the four that you will see best captures the central argument of a book called Fooled by Randomness written by the famous author Nasim Nicholas Talib?",
+    "options": [
+      "intelligent investments",
+      "something called the Monte Carl",
+      "the inherent unpredictability of random events",
+      "a structured investment approach"
+    ],
+    "answer": "the inherent unpredictability of random events"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q5: which trade association that was formed in 1995 has this as a part of their logo?",
+    "options": [
+      "The association of mutual funds in India (AMFI)",
+      "The Securities and Exchange Board of India (SEBI)",
+      "The Reserve Bank of India (RBI)",
+      "The National Stock Exchange (NSE)"
+    ],
+    "answer": "The association of mutual funds in India (AMFI)"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q1: which entity out of the four that you will see on screen regulates credit rating agencies?",
+    "options": [
+      "RBI",
+      "SEBI",
+      "IRDAI",
+      "PFRDA"
+    ],
+    "answer": "SEBI"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q2: Smart Initiative focuses on?",
+    "options": [
+      "AI trading",
+      "investor education",
+      "grading of IPOs",
+      "something else altogether none of these three"
+    ],
+    "answer": "investor education"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "which of the following sections provides tax deduction for life insurance premiums ?",
+    "options": [
+      "ATC",
+      "AT",
+      "ATG",
+      "at TTA"
+    ],
+    "answer": "ATC"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q4: who wrote the book the intelligent investor?",
+    "options": [
+      "Warren Buffett",
+      "Benjamin Graham",
+      "Peter Lynch",
+      "Phil ip Fischer"
+    ],
+    "answer": "Benjamin Graham"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q5: the global tax deal is a proposal that aims to stop?",
+    "options": [
+      "trade deficits",
+      "profit shifting",
+      "manipulation of currencies",
+      "insider trading"
+    ],
+    "answer": "profit shifting"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "which of these and I'll give you four options is not a type of email scam ?",
+    "options": [
+      "veiling",
+      "BEC which is business email compromise",
+      "alone fishing",
+      "typo squatting"
+    ],
+    "answer": "typo squatting"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Which of these is the fiscal deficit target set by the Indian government for the financial year 202526 as per the union budget ?",
+    "options": [
+      "4.9%",
+      "4.8%",
+      "4.4%",
+      "4.2%"
+    ],
+    "answer": "4.4%"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Which of these legislations or laws or acts aims to dematerialize securities and streamline the process of ownership transfer in India ?",
+    "options": [
+      "the depositories act",
+      "the company's act",
+      "our gracious force the sebi act",
+      "something called the sc"
+    ],
+    "answer": "the depositories act"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q2: As per the income tax act if there is a short-term capital loss it can be set off against?",
+    "options": [
+      "short-term capital gains only",
+      "long-term capital gains only",
+      "a mixture of both You can either set it off long-term or short-term capital gains",
+      "any possible income"
+    ],
+    "answer": "Long-term or short-term capital gains"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q3: Which product category and I'll show you four options is currently excluded from this facility when it comes to Indian markets?",
+    "options": [
+      "interest rate derivatives",
+      "index futures",
+      "currency options",
+      "commodity derivatives"
+    ],
+    "answer": "commodity derivatives"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q4: For which specific purpose are Indian insurance companies permitted to take part in interest rate futures in the markets that operate around interest rate futures as per regulations of the Irdai?",
+    "options": [
+      "long hedge",
+      "short hedge",
+      "both long and short A and B",
+      "arbitrage opportunity scheme F"
+    ],
+    "answer": "long hedge"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Which of the following category of mutual funds has a fixed maturity date ?",
+    "options": [
+      "open-ended funds",
+      "ETFs or exchange traded funds",
+      "closed-ended funds",
+      "interval funds"
+    ],
+    "answer": "closed-ended funds"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q6: According to anti-moneyaundering or CFT combating finance financing of terrorism laws Suspicious transactions must be reported to?",
+    "options": [
+      "SEBI",
+      "the central vigilance commission",
+      "the Reserve Bank of India",
+      "India's financial intelligence unit"
+    ],
+    "answer": "India's financial intelligence unit"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q7: In the civil credit rating system what is the highest score that a person can hope to achieve?",
+    "options": [
+      "900",
+      "750",
+      "1000",
+      "850"
+    ],
+    "answer": "900"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q8: What type of trading system is characterized by the absence of a central exchange where trades are executed directly between parties?",
+    "options": [
+      "Exchange-traded",
+      "Over-the-counter (OT",
+      "C) Auction-based",
+      "Broker-assisted"
+    ],
+    "answer": "Over-the-counter (OTC)"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q9: In high-frequency trading what characteristic is most crucial for successful execution?",
+    "options": [
+      "High latency in order placement",
+      "Extreme low latency in trade execution",
+      "Manual order input",
+      "Lengthy order processing times"
+    ],
+    "answer": "Extreme low latency in trade execution"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q1: The rule of 72 in personal finance is used to estimate?",
+    "options": [
+      "the time taken to repay the loan",
+      "the time taken to double your money given the interest rate",
+      "the post tax returns when you know the tax rate",
+      "the Corpus required at retirement"
+    ],
+    "answer": "the time taken to double your money given the interest rate"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q2: The basis of allotment of an IPO is finalized by?",
+    "options": [
+      "the merchant banker and regist to an issue",
+      "the merchant banker and issuer",
+      "only the merchant Banker",
+      "the issuer and the regist to the issue"
+    ],
+    "answer": "the merchant banker and registar to an issue"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q3: a valid demat account consists of how many digits?",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "answer": "16"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "which of the following is an equity Market linked product ?",
+    "options": [
+      "a corporate bond",
+      "a non-convertible debenture",
+      "something called elss",
+      "a certificate of deposit"
+    ],
+    "answer": "ELSS"
+  },
+  {
+    "round": 1,
+    "type": "mcq",
+    "question": "Q5: which company obtained the first digit?",
+    "options": [
+      "Answer not found",
+      "Answer not found",
+      "Answer not found",
+      "Answer not found"
+    ],
+    "answer": "Answer not found."
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q1: Somebody who served as the finance minister of India who is this gentleman veteran politician and people of my generation know him a little more familiarly this generation may be a little less so",
+    "answer": "Jaswan Singh"
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q2: which bank",
+    "answer": "ICICI Bank"
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q3: This government backed scheme I have blanked out all the names I have just kept a very key element which you can see in a bright color there It targets unorganized sector workers by offering guaranteed pension benefits after retirement based on monthly contributions What is the name of this governmentbacked scheme whose tagline is javani may come say fine",
+    "answer": "Atal Pension Yojana"
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q1: This is a $5 note a New Zealand $5 note And you can see a gentleman on that currency note Who is this gentleman Who was New Zealand's high commissioner or ambassador to India from 1985 to 1989",
+    "answer": "Answer not found."
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q2: seen here in this photo representing global financial leadership Who is this lady who has the distinction of being the first woman to head the IMF in 2011 She also played a key role in the bailouts or concessions that were given to Greece when the Greek economy went south about 10 12 years back And she was also instrumental in including the Chinese one in the basket of currencies which function as the IMF reserve currency basket",
+    "answer": "Answer not found."
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q3: That looks like a set of steps or a staircase",
+    "answer": "Answer not found."
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q1: This continuation chart pattern looks like a brief pause in trend marked by parallel sloping lines So your answer whatever is the nickname of this has got parallel sloping lines also So look at those parallel sloping lines the dotted ones before a breakout happens in the opposite direction of whichever trend is being seen What is the common name given to this kind of a chart pattern",
+    "answer": "Flag Pattern"
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q2: This is the logo of a the National Investment Promotion and Facilitation Agency of India which has got a two-word name and it's an alliterative theme What is the two-word name of this national agency which both the words begin with the same letter and funnily enough both words are there in the question but I need you to pick the right ones",
+    "answer": "Invest India"
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q3: This lady is the founder and CEO of Kinara Capital which is a fintech providing working capital loans to small and medium businesses in India She's known for a very innovative approach to lending Also a strong advocate for financial inclusion and one of the very few regrettably very few women leading a fintech in this country What is her name",
+    "answer": "Answer not found."
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q1: This is the facade or the front part of a building And this is of course a 175 rupees special coin which was issued on the 175th anniversary of this engineering institution which you can see on screen here",
+    "answer": "IIT Roorkee"
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q2: Identify this three-color flag which belongs to an Asian country whose capital is Abu Dhabi and whose banking regulator or Central Bank has an asset of 550 billion dollars",
+    "answer": "UAE"
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q3: This is a British pound50 polymer note By that I mean it's not made out of paper In common terms this a plastic note which is a good thing right Launched in 2021 The person you see on screen is a World War II computing hero or pioneer from England And that person was controversial in his lifetime But now we all look up to him with respect as one of the early pioneers in computing and code breaking as well Instrumental in England winning the war against Germany because of its code breaking Who is this great great computer pioneer",
+    "answer": "Alan Turing"
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q4: I have blanked out with aptly enough because these are called white label ATMs with a white label I have blanked out the name of the brand but I have kept their logo intact It is one of the largest in the space of white label ATMs in India",
+    "answer": "Vakrangi"
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q5: I have blanked out one word from this logo 2025 according to the UN has been declared as the international year of blank And the clue to that is it's a communitydriven model that plays a key role in sustainable economic development What word has been blanked out",
+    "answer": "Cooperative"
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q1: This is a place which is in a middle eastern country in the middle of a desert which is called a silicon oasis",
+    "answer": "Dubai Silicon Oasis"
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q2: On this Bank of England note it's a 20 pound note You can see a 18th century philosopher who happens to be even today in the 21st century This person happens to be one of the most influential people when it comes to economies and markets and stuff like that",
+    "answer": "Adam Smith"
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q3: This lady is the founder and CEO of Kinara Capital which is a fintech providing working capital loans to small and medium businesses in India She's known for a very innovative approach to lending Also a strong advocate for financial inclusion and one of the very few regrettably very few women leading a fintech in this country What is her name",
+    "answer": "Answer not found."
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q4: This continuation chart pattern looks like a brief pause in trend marked by parallel sloping lines",
+    "answer": "Flag Pattern"
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q5: This is the logo of a the National Investment Promotion and Facilitation Agency of India which has got a two-word name and it's an alliterative theme What is the two-word name of this national agency which both the words begin with the same letter and funnily enough both words are there in the question but I need you to pick the right ones",
+    "answer": "Invest India"
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q1: this which initiative launched by the government of India in 2014 has this logo",
+    "answer": "Make in India"
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q2: partial logo sh partial logo of which entity from the world of Indian finance which is amongst the largest in the world",
+    "answer": "NSE"
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q3: who is this business professional who heads the mutual fund division of a very large financial services group when I was asking these questions in Kolkata",
+    "answer": "Radhika Gupta"
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q1: Which company is this that has launched an IPO in 2025 and raised more than 12,000 crores via that IPO",
+    "answer": "LIC"
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q2: Which bank's logo features a tiger in its emblem, symbolizing strength and agility",
+    "answer": "State Bank of India"
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q3: This chart shows a bullish reversal pattern which has a rounded base followed by a smaller downward tip which I have helpfully outlined for you And this kind of a pattern is usually formed before an upward breakout By what common by the name of what common object or thing which is seen in all Indian homes is this kind of a pattern called",
+    "answer": "Cup and Handle"
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q4: This is a platform launched in 2021 followed by an app rolled out in 20",
+    "answer": "e-RUPI"
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q5: Which book authored by a prominent financial thinker introduces the concept of Antifragile, emphasizing how some systems can thrive and improve when exposed to volatility, uncertainty, and stress",
+    "answer": "Antifragile"
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q1: which organization was the author famously heading when she talks about it in this book which organization you know the name already one of India's biggest names in a a certain industry it's a three-letter answer what was arundhati bhatacharya working for for 36 years of her life",
+    "answer": "State Bank of India (SBI)"
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q2: what is common to all three",
+    "answer": "SEBI Chairman"
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q1: this Roman gladiator",
+    "answer": "American Express"
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q2: Name the financial institution from this cropped image which shows their motto The Motto says yoga shamam which is from the bhagwat Gita",
+    "answer": "LIC"
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q3: what three-letter abbreviation",
+    "answer": "CFP"
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q4: consists of 25 elements each of these represents a value or a service or product of the company",
+    "answer": "Unilever"
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q5: whose logo that is coming up",
+    "answer": "Smallcase"
+  },
+  {
+    "round": 2,
+    "type": "image_identification",
+    "question": "Q6: What entity does this logo belong [iepf]",
+    "answer": "Investor Education Protection Fund"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "ftopir",
+    "clue": "Financial gain after subtracting costs and expenses.",
+    "answer": "Profit",
+    "jumbled_spaced": "F T O P I R"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "tgeudb",
+    "clue": "A plan that outlines expected income and expenditures over a period.",
+    "answer": "Budget",
+    "jumbled_spaced": "T G E U D B"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "achs",
+    "clue": "Legal tender or money in hand used for transactions.",
+    "answer": "Cash",
+    "jumbled_spaced": "A C H S"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "eturrn",
+    "clue": "Profit or loss generated on an investment over a period.",
+    "answer": "Return",
+    "jumbled_spaced": "E T U R R N"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "upbcli",
+    "clue": "Relating to or affecting the people as a whole; government-related.",
+    "answer": "Public",
+    "jumbled_spaced": "U P B C L I"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "mteakr",
+    "clue": "A venue (physical or virtual) where buyers and sellers trade goods or securities.",
+    "answer": "Market",
+    "jumbled_spaced": "M T E A K R"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "alegalwarningtoprotectliability",
+    "clue": "",
+    "answer": "Disclaimer",
+    "jumbled_spaced": "A L E G A L W A R N I N G T O P R O T E C T L I A B I L I T Y"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "authorizationorconsentiscalledthis",
+    "clue": "",
+    "answer": "Permission",
+    "jumbled_spaced": "A U T H O R I Z A T I O N O R C O N S E N T I S C A L L E D T H I S"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "copiedorduplicated",
+    "clue": "",
+    "answer": "Reproduce",
+    "jumbled_spaced": "C O P I E D O R D U P L I C A T E D"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "takingmoneywithanintenttoreturn",
+    "clue": "",
+    "answer": "Borrowing",
+    "jumbled_spaced": "T A K I N G M O N E Y W I T H A N I N T E N T T O R E T U R N"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "apublicauthority",
+    "clue": "",
+    "answer": "Public",
+    "jumbled_spaced": "A P U B L I C A U T H O R I T Y"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "anlmifeniacrap",
+    "clue": "",
+    "answer": "Piramal Finance",
+    "jumbled_spaced": "A N L M I F E N I A C R A P"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "alegalwarningtoprotectliabilityyouseethisinmostfinancialadvertisementsitismandatoryinindia",
+    "clue": "",
+    "answer": "Disclaimer",
+    "jumbled_spaced": "A L E G A L W A R N I N G T O P R O T E C T L I A B I L I T Y Y O U S E E T H I S I N M O S T F I N A N C I A L A D V E R T I S E M E N T S I T I S M A N D A T O R Y I N I N D I A"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "authorizationorconsentiscalledthiswhatisanotherwordforauthorizationorconsentorallowingiallowyoutodothisiauthorizeyoutodothis",
+    "clue": "",
+    "answer": "Permission",
+    "jumbled_spaced": "A U T H O R I Z A T I O N O R C O N S E N T I S C A L L E D T H I S W H A T I S A N O T H E R W O R D F O R A U T H O R I Z A T I O N O R C O N S E N T O R A L L O W I N G I A L L O W Y O U T O D O T H I S I A U T H O R I Z E Y O U T O D O T H I S"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "copiedorduplicated",
+    "clue": "",
+    "answer": "Reproduce",
+    "jumbled_spaced": "C O P I E D O R D U P L I C A T E D"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "takingmoneywithanintenttoreturn",
+    "clue": "",
+    "answer": "Borrowing",
+    "jumbled_spaced": "T A K I N G M O N E Y W I T H A N I N T E N T T O R E T U R N"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "apublicauthority",
+    "clue": "",
+    "answer": "Public",
+    "jumbled_spaced": "A P U B L I C A U T H O R I T Y"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "elmipnaifaanrc",
+    "clue": "",
+    "answer": "Piramal Finance",
+    "jumbled_spaced": "E L M I P N A I F A A N R C"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "thosewhotakepartarecalledthis",
+    "clue": "",
+    "answer": "Participants",
+    "jumbled_spaced": "T H O S E W H O T A K E P A R T A R E C A L L E D T H I S"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "interactiveeducationalsessioniscalled",
+    "clue": "",
+    "answer": "Workshop",
+    "jumbled_spaced": "I N T E R A C T I V E E D U C A T I O N A L S E S S I O N I S C A L L E D"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "lifeafterworkinglife",
+    "clue": "",
+    "answer": "Retirement",
+    "jumbled_spaced": "L I F E A F T E R W O R K I N G L I F E"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "middleagentsandtransactions",
+    "clue": "",
+    "answer": "Intermediaries",
+    "jumbled_spaced": "M I D D L E A G E N T S A N D T R A N S A C T I O N S"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "powerorcontrol",
+    "clue": "",
+    "answer": "Authority",
+    "jumbled_spaced": "P O W E R O R C O N T R O L"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "jointlyownedandoperated",
+    "clue": "",
+    "answer": "Cooperative",
+    "jumbled_spaced": "J O I N T L Y O W N E D A N D O P E R A T E D"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "proofofqualificationiscalledthis",
+    "clue": "",
+    "answer": "Certification",
+    "jumbled_spaced": "P R O O F O F Q U A L I F I C A T I O N I S C A L L E D T H I S"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "anillegalschemeshapedlikeatriangle",
+    "clue": "",
+    "answer": "Pyramid",
+    "jumbled_spaced": "A N I L L E G A L S C H E M E S H A P E D L I K E A T R I A N G L E"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "legalagreementsarewhat",
+    "clue": "",
+    "answer": "Contract",
+    "jumbled_spaced": "L E G A L A G R E E M E N T S A R E W H A T"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "establishedorganizations",
+    "clue": "",
+    "answer": "Institution",
+    "jumbled_spaced": "E S T A B L I S H E D O R G A N I Z A T I O N S"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "atradablegood",
+    "clue": "",
+    "answer": "Commodity",
+    "jumbled_spaced": "A T R A D A B L E G O O D"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "beinginformedmeansthatyouhavewhat",
+    "clue": "",
+    "answer": "Awareness",
+    "jumbled_spaced": "B E I N G I N F O R M E D M E A N S T H A T Y O U H A V E W H A T"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "lastresortaidtostopcollapse",
+    "clue": "",
+    "answer": "Bailout",
+    "jumbled_spaced": "L A S T R E S O R T A I D T O S T O P C O L L A P S E"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "whathappenswhenyouearn",
+    "clue": "",
+    "answer": "Deficit",
+    "jumbled_spaced": "W H A T H A P P E N S W H E N Y O U E A R N"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "goodscomingin",
+    "clue": "",
+    "answer": "Imports",
+    "jumbled_spaced": "G O O D S C O M I N G I N"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "astockexchangeisalsocalledthissixletterwordifyoufollowfinancialtvchannelsandpapersinsteadofjustkeepingonsayingstockexchangestockexchangetheyalsocallitawhateverthiswordis",
+    "clue": "",
+    "answer": "Bourse",
+    "jumbled_spaced": "A S T O C K E X C H A N G E I S A L S O C A L L E D T H I S S I X L E T T E R W O R D I F Y O U F O L L O W F I N A N C I A L T V C H A N N E L S A N D P A P E R S I N S T E A D O F J U S T K E E P I N G O N S A Y I N G S T O C K E X C H A N G E S T O C K E X C H A N G E T H E Y A L S O C A L L I T A W H A T E V E R T H I S W O R D I S"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "riskybusiness",
+    "clue": "",
+    "answer": "Venture",
+    "jumbled_spaced": "R I S K Y B U S I N E S S"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "delayindataaspeedbumpofsortsthisissomethingthatcomesintoplayintradingalsomajorlyintradingthisisalsothereasonwhytherewasthisbigscandalinwhichitwasfoundthatcertainbiginvestmentcompaniestradershadtheir",
+    "clue": "",
+    "answer": "Latency",
+    "jumbled_spaced": "D E L A Y I N D A T A A S P E E D B U M P O F S O R T S T H I S I S S O M E T H I N G T H A T C O M E S I N T O P L A Y I N T R A D I N G A L S O M A J O R L Y I N T R A D I N G T H I S I S A L S O T H E R E A S O N W H Y T H E R E W A S T H I S B I G S C A N D A L I N W H I C H I T W A S F O U N D T H A T C E R T A I N B I G I N V E S T M E N T C O M P A N I E S T R A D E R S H A D T H E I R"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "Needed for government business and NOS's alike",
+    "clue": "",
+    "answer": "Funding"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "incomethatearnsevenwhileyousleep",
+    "clue": "",
+    "answer": "Passive income",
+    "jumbled_spaced": "I N C O M E T H A T E A R N S E V E N W H I L E Y O U S L E E P"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "Rural Lifeline India's Development Bank",
+    "clue": "",
+    "answer": "NABARD"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "retirementincomeafterlifelongsavings",
+    "clue": "",
+    "answer": "Pension",
+    "jumbled_spaced": "R E T I R E M E N T I N C O M E A F T E R L I F E L O N G S A V I N G S"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "ordinarysharesorvotingrightsarecalledthese",
+    "clue": "",
+    "answer": "Common",
+    "jumbled_spaced": "O R D I N A R Y S H A R E S O R V O T I N G R I G H T S A R E C A L L E D T H E S E"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "onewhoinitiatesbusiness",
+    "clue": "",
+    "answer": "Merchant",
+    "jumbled_spaced": "O N E W H O I N I T I A T E S B U S I N E S S"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "expenses will get you plus 15",
+    "clue": "",
+    "answer": "Expenses"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "stock will get you 15",
+    "clue": "",
+    "answer": "Stock"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "loan will get you 15",
+    "clue": "",
+    "answer": "Loan"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "debt will get you 15",
+    "clue": "",
+    "answer": "Debt"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "active will get you plus 15",
+    "clue": "",
+    "answer": "Active"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "intercryptosfoundation",
+    "clue": "",
+    "answer": "Blockchain",
+    "jumbled_spaced": "I N T E R C R Y P T O S F O U N D A T I O N"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "buyingorsellingpracticeearnsaheftycommission",
+    "clue": "",
+    "answer": "Broking",
+    "jumbled_spaced": "B U Y I N G O R S E L L I N G P R A C T I C E E A R N S A H E F T Y C O M M I S S I O N"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "onehavingaccesstoconfidentialinformation",
+    "clue": "",
+    "answer": "Insider",
+    "jumbled_spaced": "O N E H A V I N G A C C E S S T O C O N F I D E N T I A L I N F O R M A T I O N"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "thisisdoneforreportsdataandfinancialstatements",
+    "clue": "",
+    "answer": "Published",
+    "jumbled_spaced": "T H I S I S D O N E F O R R E P O R T S D A T A A N D F I N A N C I A L S T A T E M E N T S"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "sellmorewithoutknockingoneverydoor",
+    "clue": "",
+    "answer": "Marketing",
+    "jumbled_spaced": "S E L L M O R E W I T H O U T K N O C K I N G O N E V E R Y D O O R"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "areaspecificfinancialoperationsarealsocalledblankfinancialoperations",
+    "clue": "",
+    "answer": "Regional",
+    "jumbled_spaced": "A R E A S P E C I F I C F I N A N C I A L O P E R A T I O N S A R E A L S O C A L L E D B L A N K F I N A N C I A L O P E R A T I O N S"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "consulttheselicensedexperts",
+    "clue": "",
+    "answer": "Advisers",
+    "jumbled_spaced": "C O N S U L T T H E S E L I C E N S E D E X P E R T S"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "frameworksenforcedbybodies",
+    "clue": "",
+    "answer": "Regulatory",
+    "jumbled_spaced": "F R A M E W O R K S E N F O R C E D B Y B O D I E S"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "atieredbusinessstructureisalsocalledablankbusinessstructure",
+    "clue": "",
+    "answer": "Multilevel",
+    "jumbled_spaced": "A T I E R E D B U S I N E S S S T R U C T U R E I S A L S O C A L L E D A B L A N K B U S I N E S S S T R U C T U R E"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "structuredplanswhichcanbegovernmentbackedorforinvestment",
+    "clue": "",
+    "answer": "Schemes",
+    "jumbled_spaced": "S T R U C T U R E D P L A N S W H I C H C A N B E G O V E R N M E N T B A C K E D O R F O R I N V E S T M E N T"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "demandandtimeinamoneyinabank",
+    "clue": "",
+    "answer": "Deposits",
+    "jumbled_spaced": "D E M A N D A N D T I M E I N A M O N E Y I N A B A N K"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "youneedthisbeforemakingmoves",
+    "clue": "",
+    "answer": "Strategy",
+    "jumbled_spaced": "Y O U N E E D T H I S B E F O R E M A K I N G M O V E S"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "businesshousereshuffledatrain",
+    "clue": "",
+    "answer": "Corporate",
+    "jumbled_spaced": "B U S I N E S S H O U S E R E S H U F F L E D A T R A I N"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "riskmanagementmethod",
+    "clue": "",
+    "answer": "Diversify",
+    "jumbled_spaced": "R I S K M A N A G E M E N T M E T H O D"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "atieredbusinessstructureisalsocalledablankbusinessstructure",
+    "clue": "",
+    "answer": "Multilevel",
+    "jumbled_spaced": "A T I E R E D B U S I N E S S S T R U C T U R E I S A L S O C A L L E D A B L A N K B U S I N E S S S T R U C T U R E"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "securingthelending",
+    "clue": "",
+    "answer": "Collateralization",
+    "jumbled_spaced": "S E C U R I N G T H E L E N D I N G"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "afallinvalueiscalled",
+    "clue": "",
+    "answer": "Depreciation",
+    "jumbled_spaced": "A F A L L I N V A L U E I S C A L L E D"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "anindexthatisreallyreallyold",
+    "clue": "",
+    "answer": "Dow Jones",
+    "jumbled_spaced": "A N I N D E X T H A T I S R E A L L Y R E A L L Y O L D"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "somethingtodowithinsurancewhatisthisshsomethingtodowithhealthinsurance",
+    "clue": "",
+    "answer": "Mediclaim",
+    "jumbled_spaced": "S O M E T H I N G T O D O W I T H I N S U R A N C E W H A T I S T H I S S H S O M E T H I N G T O D O W I T H H E A L T H I N S U R A N C E"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "disputeresolution",
+    "clue": "",
+    "answer": "Arbitration",
+    "jumbled_spaced": "D I S P U T E R E S O L U T I O N"
+  },
+  {
+    "round": 3,
+    "type": "jumble",
+    "jumbled": "afractionofaunitiscalledabasispoint",
+    "clue": "",
+    "answer": "Basis point",
+    "jumbled_spaced": "A F R A C T I O N O F A U N I T I S C A L L E D A B A S I S P O I N T"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"something health insurance I just want that first part and it's a common noun in English four-letter word the health insurance specialist it's a word that is used in many fields not just in cinema in sports in many other things in college life as well especially if you're doing really well\"",
+    "answer": "Star Health Insurance"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"solving complex challenges together\"",
+    "answer": "Asian Bank"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"her family hogi insured\"",
+    "answer": "Policybazaar.com"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"Think equity think blank blank\"",
+    "answer": "Motilal Oswal"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"India's best metal credit card\"",
+    "answer": "One Card"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"Bharata money app\"",
+    "answer": "BHIM App"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"One family one bank\"",
+    "answer": "Bank of Maharashtra"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"isco danda\"",
+    "answer": "BharatPe"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"end prosper\"",
+    "answer": "Standup India"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"partner for life\"",
+    "answer": "SBI Mutual Fund"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"Solving complex challenges together\"",
+    "answer": "Asian Bank"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"her family hogi insured\"",
+    "answer": "Policybazaar.com"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"Think equity think blank blank\"",
+    "answer": "Motilal Oswal"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"India's best metal credit card\"",
+    "answer": "One Card"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"Bharata money app\"",
+    "answer": "BHIM App"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"One family one bank\"",
+    "answer": "Bank of Maharashtra"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"isco danda\"",
+    "answer": "BharatPe"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"end prosper\"",
+    "answer": "Standup India"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"partner for life\"",
+    "answer": "SBI Mutual Fund"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"Solving complex challenges together\"",
+    "answer": "Asian Bank"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"It belongs to a bank of thoughts But it is not a bank which has got a country's name attached to it It has got the name of something slightly larger than a country attached to it Which bank's tagline is solving complex challenges together\"",
+    "answer": "Asian Bank"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"her family hogi insured is a tagline or a slogan of which platform\"",
+    "answer": "Policybazaar.com"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"SIP and that sip of course in all capitals for a reason which should tell you what kind of company we are looking at whose tagline is this\"",
+    "answer": "Kotak Mutual Fund"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"India's best metal credit card\"",
+    "answer": "One Card"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"Crafted for the creditw worthy\"",
+    "answer": "Cred"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"Think equity think blank blank\"",
+    "answer": "Motilal Oswal"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"Milestones in the Indian securities market\"",
+    "answer": "Dhohar"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"Tan Man and Dhan\"",
+    "answer": "Dhanalakshmi Bank"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"convenient dependable secure\"",
+    "answer": "CDSL"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"what's in your wallet\"",
+    "answer": "Capital One"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"chu a b is the tagline of a very very go\"",
+    "answer": "AU Small Finance Bank"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"Live more bank less\"",
+    "answer": "DBS Bank"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"Sub tick hair team\"",
+    "answer": "Google Pay"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"rebuilding France\"",
+    "answer": "Kolkata Stock Exchange"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"This is a quotation by a very famous person And if I may give a clue nobody objecting to a clue This is a person whose spouse is or was is not was is world famous This person is primarily famous for being the spouse of t\"",
+    "answer": "Answer not found."
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"You will soon understand that work is a rubber ball If you drop it it will bounce back You lose your job you can get another one While it is important to work hard you need to keep a focus on other areas as well and use your time in the workplace well This is a quote by a very very prominent Indian person from the world of banking\"",
+    "answer": "Aditya Puri"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"Bharata money app\"",
+    "answer": "BHIM App"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"One family one bank\"",
+    "answer": "Bank of Maharashtra"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"isco danda\"",
+    "answer": "BharatPe"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"end prosper\"",
+    "answer": "Standup India"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"partner for life\"",
+    "answer": "SBI Mutual Fund"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"rebuilding France\"",
+    "answer": "Kolkata Stock Exchange"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"This is a quotation by a very famous person And if I may give a clue nobody objecting to a clue This is a person whose spouse is or was is not was is world famous This person is primarily famous for being the spouse of t\"",
+    "answer": "Answer not found."
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"You will soon understand that work is a rubber ball If you drop it it will bounce back You lose your job you can get another one While it is important to work hard you need to keep a focus on other areas as well and use your time in the workplace well This is a quote by a very very prominent Indian person from the world of banking\"",
+    "answer": "Aditya Puri"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"Bharata money app\"",
+    "answer": "BHIM App"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"One family one bank\"",
+    "answer": "Bank of Maharashtra"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"isco danda\"",
+    "answer": "BharatPe"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"end prosper\"",
+    "answer": "Standup India"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"partner for life\"",
+    "answer": "SBI Mutual Fund"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"Investment plan MLA SIP in mutual funds\"",
+    "answer": "Tata Mutual Fund"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"powering India's investments\"",
+    "answer": "HDFC Securities"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"Crafted for the creditw worthy\"",
+    "answer": "Cred"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"Think equity think blank blank\"",
+    "answer": "Motilal Oswal"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"India's best metal credit card\"",
+    "answer": "One Card"
+  },
+  {
+    "round": 4,
+    "type": "slogan",
+    "question": "\"Milestones in the Indian securities market\"",
+    "answer": "Dhohar"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q1: what do the owner's equity and liabilities add up to on a balance sheet and I'm looking for a very very commerce answer",
+    "answer": "Total assets"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q2: 197 Communications is the name of the parent company behind which digital payments wallet and financial services brand",
+    "answer": "Paytm"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q3: if you look at the equation MV is equal to PY from the quantity theory of money audience please stay quiet where M is money supply P is price levels and Y is the output what does the letter V stand for",
+    "answer": "Velocity of the money"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q4: what key economic indicator is most commonly used to measure inflation by tracking changes in the price of a basket of consumer goods and services",
+    "answer": "Consumer Price Index (CPI)"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q5: which term for a property loan or used in relation to a property loan originates from the old French words meaning dead pledge because it reflects the fact that the deal becomes dead or it ends only when the debt is paid off or the property is forfeited",
+    "answer": "Mortgage"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q6: which financial markets or market facilitates the buying and selling of long-term debt and equity instruments like stocks and bonds enabling businesses and governments to raise funds for growth and projects",
+    "answer": "Capital markets"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q7: what does the formula a is equal to all right I have a buzz from one first quickly what is it",
+    "answer": "Compound interest"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q8: what revolutionary digital currency did Satoshi Nakamoto describe in a 2008 white paper titled blank which is the word I want a peer-to-peer electronic cash system",
+    "answer": "Bitcoin"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q9: which country is the global leader in mobile",
+    "answer": "China"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q10: this bank's chatbot called CIA can help you block lost cards check bank balances and even tell you jokes which bank sh has a chatbot",
+    "answer": "SBI"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q11: what does the E in EMI stand for",
+    "answer": "Equated"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q1: Vinyama is the title of a magazine in Hindi as you can see that aims to educate investors about regulations investment related topics and updates from the Indian financial markets Just tell me the name of the organization or entity who publishes Vina Mika magazine",
+    "answer": "Answer not found."
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q2: this investment company with major stakes in sectors like finance telecom and transportation is a sovereign wealth fund of which tiny Asian country",
+    "answer": "Singapore"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q1: Which electronic platform is primarily used to trade in government securities like GEX Treasury bills and state development loans in India",
+    "answer": "NDS-OM"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q2: What does the formula a is equal to all right I have a buzz from one first quickly what is it",
+    "answer": "Compounding or Compound Interest"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q3: what revolutionary digital currency did Satoshi Nakamoto describe in a 2008 white paper titled blank which is the word I want a peer-to-peer electronic cash system",
+    "answer": "Bitcoin"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q4: Which country is the global leader in mobile",
+    "answer": "China"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q5: this bank's chatbot called CIA can help you block lost cards check bank balances and even tell you jokes which bank sh has a chatbot",
+    "answer": "SBI"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q6: What does the E in EMI stand for",
+    "answer": "Equated"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q1: Which scheme provides farmers with timely access",
+    "answer": "Kisan Credit Card Yojana"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q2: What do the letters BS OD stand for when it comes to computers and technology",
+    "answer": "Blue Screen of Death"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q3: What does the formula A = all right I have a buzz from one first quickly what is it",
+    "answer": "Compounding / Compound Interest"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q4: what revolutionary digital currency did Satoshi Nakamoto describe in a 2008 white paper titled blank which is the word I want a peer-to-peer electronic cash system",
+    "answer": "Bitcoin"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q5: Which country is the global leader in mobile",
+    "answer": "China"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q6: this bank's chatbot called CIA can help you block lost cards check bank balances and even tell you jokes which bank sh has a chatbot",
+    "answer": "SBI"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q7: What does the E in EMI stand for",
+    "answer": "Equated"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q8: What economic concept explains why countries export goods they can produce more efficiently and import goods that they produce less efficiently taking opportunity cost into account",
+    "answer": "Comparative Advantage"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q1: Which rating agency was originally formed as a JV a joint venture between Fitch of the US and ICICI in 1991 in India",
+    "answer": "ICRA"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q2: The CME Group owns four major exchanges A which city in the US",
+    "answer": "Chicago"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q3: What does the formula A = all right I have a buzz from one first quickly what is it",
+    "answer": "Compounding / Compound Interest"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q4: what revolutionary digital currency did Satoshi Nakamoto describe in a 2008 white paper titled blank which is the word I want a peer-to-peer electronic cash system",
+    "answer": "Bitcoin"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q5: Which country is the global leader in mobile",
+    "answer": "China"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q6: this bank's chatbot called CIA can help you block lost cards check bank balances and even tell you jokes which bank sh has a chatbot",
+    "answer": "SBI"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q7: What does the E in EMI stand for",
+    "answer": "Equated"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q8: Which field of economics",
+    "answer": "Behavioral Economics"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q9: Which two people share the 2019 Nobel with Michael Kramer",
+    "answer": "Esther Duplo and Abhijit Banerjee"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q10: What financial term describes an investment that helps to reduce the risk of adverse price",
+    "answer": "Hedging"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q11: Which national scheme was first to buzz into the mic",
+    "answer": "Mahatma Gandhi National Rural Employment Guarantee Scheme"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q12: Which Asian country's primary index in F is called the Nik225",
+    "answer": "Japan"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q13: Which economist was the first Indian to win into the mic",
+    "answer": "Amartya Sen"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q14: What do we call a stock that has the potential or track record",
+    "answer": "Multi-bagger stock"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q15: Which rating agency was originally formed as a JV a joint venture between Fitch of the US and ICICI in 1991 in India part of the answer is right there in one of those two partners of the JD",
+    "answer": "ICRA"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q16: The CME Group owns four major exchanges A which city in the US",
+    "answer": "Chicago"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q1: if the Sensex has 30 stocks and the Nifty has 50 how many stocks are there on the FTSSE which is colloqually called the Footsie that's in London",
+    "answer": "100"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q2: launched as a part of the Betty Padha Batty Bacho campaign which Indian governmentbacked savings scheme is specifically designed for girl children only",
+    "answer": "Sukanya Samriddhi Yojana"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q3: which global institution conducts the trienal central bank survey on foreign exchange market turnover",
+    "answer": "Bank for International Settlements (BIS)"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q4: What is the lowest denomination of an Indian currency note ever issued",
+    "answer": "One Rupee Note"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q1: in financial mathematics in financial mathematics it is a formula that investors use to determine the likely average the likely average return of an investment over time what is this quantity that is denoted by the letters E V not electric vehicle",
+    "answer": "Expected Value"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q2: Established in 2004 under the Finance Ministry of India the FIU I N D is responsible for intelligence on suspicious financial transactions to combat money laundering and financing of terror just tell me what do the letters F I U expand to",
+    "answer": "Financial Intelligence Unit"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q3: which economic theory first articulated in the 18th century by the legendary Adam",
+    "answer": "Answer not found."
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q4: which unicorn collected over 9,000 crores",
+    "answer": "Zomato"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q5: what is the term for the practice of buying or selling a company's securities",
+    "answer": "Insider Trading"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q6: a type of mutual fund",
+    "answer": "Exchange Traded Fund"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q7: which international organization founded in 1960",
+    "answer": "OPEC"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q1: products that are mined or extracted from the earth like gold silver oil coal etc It's called blank commodities Just give me the first word It's a common English word It's a fourletter word Not that kind of four-letter word",
+    "answer": "Hard"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q2: Which Indian website is named to reflect their mission to remove obstacles in trading with lowcost techdriven investing",
+    "answer": "Zerodha"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q3: What does the formula A = all right I have a buzz from one first quickly what is it",
+    "answer": "Compounding / Compound Interest"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q4: what revolutionary digital currency did Satoshi Nakamoto describe in a 2008 white paper titled blank which is the word I want a peer-to-peer electronic cash system",
+    "answer": "Bitcoin"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q5: Which country is the global leader in mobile",
+    "answer": "China"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q6: this bank's chatbot called CIA can help you block lost cards check bank balances and even tell you jokes which bank sh has a chatbot",
+    "answer": "SBI"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q7: What does the E in EMI stand for",
+    "answer": "Equated"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q8: While studying for a PhD at the London School of Economics who wrote a thesis on the Indian rupee that was the name of the thesis which was published as a book titled the problem of the rupee its origin a",
+    "answer": "Dr. B.R. Ambedkar"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q9: monopolistic market structure or monopolistic competition is good enough",
+    "answer": "Monopolistic Competition"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q10: what statistical measure correlates portfolio returns to Benchmark returns",
+    "answer": "R-squared"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q11: Which Housing Finance company merged with the biggest private sector Bank in India on July 1st 2023",
+    "answer": "HDFC Limited"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q12: kazana in the language that we know means treasure which country's Sovereign wealth fund is called kazana naal",
+    "answer": "Malaysia"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q1: What does the formula A = all right I have a buzz from one first quickly what is it",
+    "answer": "Compounding / Compound Interest"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q2: what revolutionary digital currency did Satoshi Nakamoto describe in a 2008 white paper titled blank which is the word I want a peer-to-peer electronic cash system",
+    "answer": "Bitcoin"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q3: Which country is the global leader in mobile",
+    "answer": "China"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q4: this bank's chatbot called CIA can help you block lost cards check bank balances and even tell you jokes which bank sh has a chatbot",
+    "answer": "SBI"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q5: What does the E in EMI stand for",
+    "answer": "Equated"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q6: Which type of economic indicator is used to measure the overall level of prices for all new, domestically produced goods and services in an economy, reflecting the rate of inflation",
+    "answer": "GDP Deflator"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q7: The rise of which major Asian economy or country is also known as the model which is called the miracle on the Han River model",
+    "answer": "South Korea"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q8: Which type of derivative involves the exchange of cash flows or financial instruments between two parties Often used to manage interest rate or currency risks",
+    "answer": "Swap"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q9: UAE Iran Indonesia Egypt and Ethiopia are the new additions to a very very very famous economic group These new additions have taken place over the last couple of years And this economic group when it came into being had just five members in 2010",
+    "answer": "BRICS"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q10: What do the letters NFT stand for",
+    "answer": "Non-fungible Token"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q11: Which country launched a digital currency called the E CNY",
+    "answer": "China"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q12: Whose voice was used in a government sponsored caller tune campaign",
+    "answer": "Amitabh Bachchan"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q1: Temasek Holdings a major Global investor is The Sovereign wealth fund of which country",
+    "answer": "Singapore"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q2: the purchasing managers index or PMI has a base score if the if the score is above that it indicates growth if the number is below that it indicates contraction your answer should be a number what is this base score of the purchasing managers index",
+    "answer": "50"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q3: what is the expansion of asp ba a process that makes IPO refunds in case of non allotment of shares",
+    "answer": "Application Supported by Blocked Amount"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q4: which index was launched",
+    "answer": "Answer not found."
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q5: the largest item on India's import basket is commonly referred to as the P items P are the letters which stand for three different things and if I want to give points I need all three things correct What exactly are P items",
+    "answer": "Petroleum, Oil, and Lubricants"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q6: IFCO is a Cooperative established in 1967 it has also promoted other entities famous in India like the ncdex what do the letters if f f stand for in IFCO",
+    "answer": "Indian Farmers Fertiliser Cooperative"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q7: Which global alternate investment gia",
+    "answer": "Answer not found."
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q8: who prepares something called the residex which is India's first official housing price index",
+    "answer": "National Housing Bank"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q9: npos which are essentially not for profit organizations can raise Capital through what is called SS in this context what the letters s stand for",
+    "answer": "Social Stock Exchange"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q10: established in 2016 under the companies Act of 2013 which quasi judicial body replace the company law board the C in matters related to corporate disputes",
+    "answer": "National Company Law Tribunal (NCLT)"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q11: who or which entity had the world's first ever IPO",
+    "answer": "Dutch East India Company"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q1: cyber SEC cyber insurance has become a very fashionable product the video they've already gone for it over these last few years you won the name of the guy speaking",
+    "answer": "Ajit Jain"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q2: this movie is based on an actual event which institution was at the center of the story in that real event unque situation which he blames on the actions of a road traitor in Singapore estimates a poal from 800 million to over 1 billion lb",
+    "answer": "Bank of England"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q3: who is this person who has been mentioned in the quiz earlier also",
+    "answer": "Arun Jaitley"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q4: what do the letters QR stand for in a QR code",
+    "answer": "Quick Response"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q5: who is this person who served as the chief economist of the World Bank for four years roughly 5 years from 2012 to 2016 and as you can make out an Indian very proud moment for all of us",
+    "answer": "Kaushik Basu"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q6: which major global financial organization",
+    "answer": "Amazon Pay"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q7: Adam Smith",
+    "answer": "Answer not found."
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q8: what is the area of expertise of the person that you will see in the video one word answer",
+    "answer": "Valuation"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q9: who who you will see speaking in this slightly antique kind of video",
+    "answer": "Morarji Desai"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q10: this is named after a certain kind of bird",
+    "answer": "Black Swan"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q11: he is talking about the time when he voted to repeal a certain legislation way back in 1999 I need the name of the legislation the name of the act of government that he voted to repeal in 199",
+    "answer": "Glass-Steagall Act"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q1: what is the expansion of fmcg",
+    "answer": "Fast Moving Consumer Goods"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q2: where is World Bank headquartered",
+    "answer": "Washington DC"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q3: what is the currency of South Africa",
+    "answer": "African Rand"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q4: who is the present chairperson of sebi",
+    "answer": "Madhabi Puri Buch"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q5: in p ratio what does the E stand for",
+    "answer": "Earnings"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q6: whose signature will you find on a 100 rupe note",
+    "answer": "RBI Governor"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q7: who regulates Bank sponsored mutual funds",
+    "answer": "RBI"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q8: Taiex index belongs to which country",
+    "answer": "Taiwan"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q9: which city is the corporate office of Bajaj finerve located",
+    "answer": "Pune"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q10: in which state is the spices board headquartered Indian State",
+    "answer": "Kerala"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q11: before the euro what was the current ceny of Italy",
+    "answer": "Lira"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q12: what does the F in FEMA stand for",
+    "answer": "Foreign"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q13: what is the expansion of GST",
+    "answer": "Goods and Service Tax"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q14: who regulates the national pension scheme in India",
+    "answer": "PFRDA"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q15: in which city is the nsse headquartered",
+    "answer": "Mumbai"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q16: how many companies are included in the BSE sensex",
+    "answer": "30"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q17: a special campaign to promote mutual funds by m has got what forward tagline",
+    "answer": "Mutual Funds Sahi Hai"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q18: name the regulator who established who was established on 1st April 1935",
+    "answer": "RBI"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q19: who's the current chairperson of Berkshire Hathaway",
+    "answer": "Warren Buffett"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q20: what does the v in NAV stand for",
+    "answer": "Value"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q21: which present day Bank was earlier known as UTI Bank",
+    "answer": "Axis Bank"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q22: what is the currency used in both Saudi Arabia and Oman called",
+    "answer": "Rial"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q23: how many companies are included in nse's Benchmark nifty",
+    "answer": "50"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q24: under which Governor did the RBI introduce inflation targeting strategy very famous Governor",
+    "answer": "Raghuram Rajan"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q25: in which city is the international monetary fund headquartered",
+    "answer": "Washington DC"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q26: In which city was amul's first Dairy established Gujarat City",
+    "answer": "Anand"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q27: India's very first mutual fund scheme was called",
+    "answer": "US 64"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q28: the NM is established by which body or organization",
+    "answer": "SEBI"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q29: which product from a life insurance company is used for regular income in retirement",
+    "answer": "Annuity"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q30: what does the DT in cbdt stand for",
+    "answer": "Direct Taxes"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q31: what is the cency of Hong Kong",
+    "answer": "Hong Kong Dollar"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q32: who authored the classic The Wealth of Nations",
+    "answer": "Adam Smith"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q33: which prime minister was also once the governor of The Reserve Bank of India",
+    "answer": "Dr. Manmohan Singh"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q34: in the peace upon BV ratio what does the BV stand for",
+    "answer": "Book Value"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q35: presentation of what special sectoral budget was discontinued from the year 201617",
+    "answer": "Railway Budget"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q36: before the euro peseta was the currency of which country",
+    "answer": "Spain"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q37: in which state is the national Dairy development board headquartered",
+    "answer": "Gujarat"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q38: In which city is the Murugappa group primarily based out of",
+    "answer": "Chennai"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q39: dilip Shang is the founder promoter of",
+    "answer": "Sun Pharmaceutical Industries"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q40: crr is an important monetary policy tool what is the expansion of CRR",
+    "answer": "Cash Reserve Ratio"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q41: CHF is the symbol for which European currency",
+    "answer": "Swiss Franc"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q42: expand is n International Security identification number",
+    "answer": "International Securities Identification Number"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q43: which country is the largest milk producer in the world",
+    "answer": "India"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q44: in which state would you find a location known as gift City",
+    "answer": "Gujarat"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q45: in the investment firm in the investment firm rare Enterprises what do the letters r e stand",
+    "answer": "Rakesh and Rekha Jhunjhunwala"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q46: mutual funds offer something called fof both the FS mean what",
+    "answer": "Fund of Funds"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q47: FC kohali is a legend behind which IND",
+    "answer": "TCS"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q48: name the first ever open-ended mutual fund in India",
+    "answer": "US 64"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q49: the currency of Kuwait is called what",
+    "answer": "Kuwaiti Dinar"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q50: what is the OM in FOMC stand for",
+    "answer": "Open Market Operations"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q51: in which city is Britannia Industries corporate headquarters located",
+    "answer": "Kolkata"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q52: who wrote the investment classic one up on Wall Street",
+    "answer": "Peter Lynch"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q53: Sunil ml is the chairman of which Indian company",
+    "answer": "Bharti Airtel"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q54: in a CBL o trade what does the letter c signify",
+    "answer": "Collateralized"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q55: crude oil is being presently extracted from the kg Basin what do the letters kg stand for",
+    "answer": "Krishna Godavari"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q56: what type of life insurance scheme offers only pure risk cover",
+    "answer": "Term Insurance"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q57: the 100 rupee Indian currency note features which UNESCO world heritage site from Gujarat",
+    "answer": "Rani ki Vav"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q58: Ras are types of advisers expand Ria",
+    "answer": "Registered Investment Adviser"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q59: who managed a hedge fund by the name of tiger funds in the 1990s",
+    "answer": "Julian Robertson"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q60: which major Indian corporate was founded by the choky wakil and Dan amilies",
+    "answer": "Asian Paints"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q61: which banking major was once known as Industrial Credit and Investment corporation of India limited",
+    "answer": "ICICI Bank"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q62: what is the mutual fund industrywide Association known as",
+    "answer": "AMFI"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q63: what does the E in ETF stand for",
+    "answer": "Exchange"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q64: who coined the famous term bottom of the pyramid",
+    "answer": "C.K. Prahalad"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q65: Banks use any ft what do the letters FT stand for",
+    "answer": "Fund Transfer"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q66: who oversees the functioning of currency mints in India where money is made",
+    "answer": "RBI"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q67: in which state is the Catholic Syrian Bank headquartered",
+    "answer": "Kerala"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q68: in which city in India is the United India insurance company headquartered",
+    "answer": "Chennai"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q69: what was the first ever open-ended mutual fund scheme in India called",
+    "answer": "US 64"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q70: which Indian conglomerate now owns the uja and ACC cement companies",
+    "answer": "Adani Group"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q71: what is the complete expansion of the term mme",
+    "answer": "Micro, Small and Medium Enterprise"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q72: in which city is the irai headquartered",
+    "answer": "Hyderabad"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q73: which country is the world's largest crude oil producer",
+    "answer": "United States"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q74: in the agriculture term MSP what does the letter m stand for",
+    "answer": "Minimum"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q75: in EPF if PF is Provident fund what does the E stand for",
+    "answer": "Employee"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q76: ICI Bank sponsored a mutual fund company with a global giant which global Giant",
+    "answer": "Prudential"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q77: which Tamil Nadu based Bank did IC Bank acquire in 2001",
+    "answer": "Bank of Madura"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q78: which management Guru wrote the practice of management as",
+    "answer": "Peter Drucker"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q79: with which bank did Vijaya Bank merge they merged into this Bank",
+    "answer": "Bank of Baroda"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q80: who was the Finance Minister of India before Mrs nirmala sitaraman became financi",
+    "answer": "Piyush Goyal"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q1: 2019 was when Vijay Bank got merged with the Bank of Boda but way back in the 20th century when the Vijaya Bank was set up why was it named Vijaya Bank",
+    "answer": "Vijay Dashmi"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q1: what two words make up the word sensex",
+    "answer": "Answer not found."
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q2: Which regional language was the third the first regional language in which the BSE website was made available",
+    "answer": "Gujarati"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q1: As for SEBI regulations how frequently must asset management companies update the KIM the key information memorandum of mutual fund schemes A) once a month B) once every 3 months C) once every 6 months D) once a year",
+    "answer": "Once every six months"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q2: The key difference between a longshot strategy and a market neutral strategy Is that in the latter The category 3 AIF maintains which of these four A) maximum sectoral concentration B) a net zero exposure to the market data C) 100% long positions D) short only positions in overvalued sector or sector scheme B",
+    "answer": "a net zero exposure to the market data"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q3: the term securities when it comes to India is defined under which of these A) the securities contracts regulation rules 1957 B) the securities contracts regulation act of 1956 Six C) the depositories act of 1996 D) the SEBI ICDR regulations 2018",
+    "answer": "the securities contracts regulation act of 1956"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q4: What is the primary source of revenue or income when it comes to mutual fund distributors who are registered with SEBI A) direct fees which they get from the investors B) advisory fees which they charge separately C) transaction charges from stock exchanges D) commission from the asset management companies",
+    "answer": "Commission from asset management companies"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q5: As per SEBI regulations an individual investment advisor is prohibited from offering both advisory and which other service so that conflict of interest is avoided A) advisory and distribution B) advisory and fund advisory C) advisory and retirement planning D) advisory and portfolio review",
+    "answer": "advisory and distribution"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q6: What is this maximum time period allowed [for NPS ombudsman to pass an award] A) 30 days B) 45 days C) 2 months like 60 days D) a full 90 days",
+    "answer": "90 days"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q7: Which of these indexes includes both developed and emerging market stocks And it's frequently used to benchmark global equity performance A) the Nifty50 B) the Dow Jones Industrial Average C) the MSCI World Index D) the SNP MSCI border index",
+    "answer": "the MSCI World Index"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q8: When you look at India's consumer price index which of the following four categories carries the highest weight A) fuel and light B) food and beverages C) clothing and footwear D) the miscellaneous category",
+    "answer": "food and beverages"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q9: Which of the following is a qualitative tool when it comes to monetary policy A) the bank rate B) the cash reserve ratio or CRR C) moral suation D) the repo rate",
+    "answer": "moral suation"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q10: When the Reserve Bank of India uses open market operations or OMOS it primarily aims to do which of these four A) control fiscal deficit B) regulate liquidity in the banking system C) regulate transparency in the stock markets D) manage forex reserves",
+    "answer": "regulate liquidity in the banking system"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q11: Which of the following is classified as a capital expenditure or capex when it comes to the union budget The central government budget for India A) salaries of government employees B) subsidies that are given the so many subsidies that we give out C) pensions D) repayment of the loans that have been taken",
+    "answer": "repayment of the loans that have been taken"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q12: Compared to the consumer price index the WPI or the wholesale price index gives a higher weightage to which of these categories A) manufactured products B) services C) primary articles D) again like the CPI to food articles",
+    "answer": "manufactured products"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q1: What do the letters BS OD stand for when it comes to computers and technology",
+    "answer": "Blue Screen of Death"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q1: which very very very very famous American company is this which was founded by one of the world's most well-known inventors",
+    "answer": "GE"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q1: What time was the Union Budget presented in India before 2000",
+    "answer": "5:00 PM"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q1: What is the recycled material from which the Reserve Bank of India makes their souvenir diaries and paper weights",
+    "answer": "Shredded currency notes"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q2: What is the average maturity as well as the modified duration",
+    "answer": "Answer not found."
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q1: what is the very very apt name of Radhika Gupta's autobiography it is called I'll give you half of it it is called the girl with the black blank",
+    "answer": "The girl with the broken neck"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q1: How many of you have heard of James Clear?",
+    "answer": "Answer not found."
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q2: How many of you have read Atomic Habits?",
+    "answer": "Answer not found."
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q3: How many of you have heard of the Paula sisters?",
+    "answer": "Answer not found."
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q1: Warren Buffett was given a three-word nickname that three-word nickname was the second part of that nickname was where he was headquartered and the first part the middle I'll give you the middle word the middle word was off blank of blank the third blank isn't the third word is a place the first word happens to be from mythology not our mythology Greek mythology somebody who knew all the answers it also coincidentally happens to be the name of a giant company",
+    "answer": "Oracle of Omaha"
+  },
+  {
+    "round": 5,
+    "type": "short_answer",
+    "question": "Q1: project sasak is the goal of project sasak is to resolve what kind of assets",
+    "answer": "Stressed Assets"
+  }
+]
